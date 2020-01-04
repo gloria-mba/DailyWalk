@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DailyWalk</string>
+    <string name="Contacts">Contacts</string>
+    <string name="Social">Social</string>
+    <string name="Youtube">Youtube</string>
+    <string name="Audio">Audio</string>
+    <string name="Message">Message</string>
+</resources>
